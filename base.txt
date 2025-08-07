@@ -1,0 +1,4 @@
+123456789123456, Samsung, Samsung Galaxy J7, 16, Preto, 1100.0
+1254884566774, Apple, iPhone 13, 128, Branco, 2800.0
+2145214421454, Motorola, G5, 128, PRETO, 1500.00
+21145516657784, Apple, iPhone 13, 128, Branco, 2800
